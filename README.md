@@ -83,9 +83,4 @@ git push -u origin main
 
 The Jupyter notebook includes comments and explanations to ensure clarity and help reviewers understand the process and logic used throughout the analysis.
 
-## Contact
 
-For any questions or further clarifications, please contact [Your Name] at [Your Email].
-```
-
-Replace `<your_repository_url>`, `[Your Name]`, and `[Your Email]` with the appropriate information for your repository and contact details.
