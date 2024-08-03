@@ -1,17 +1,4 @@
-# UK Food Hygiene Ratings Analysis
 
-## Overview
-
-This repository contains a Jupyter notebook for analyzing the UK Food Standards Agency’s food hygiene ratings data. The analysis focuses on exploring, updating, and evaluating various aspects of the food hygiene ratings for establishments across the UK using MongoDB.
-
-## Contents
-
-- [`uk_food_analysis.ipynb`](uk_food_analysis.ipynb): Jupyter notebook containing all the steps for database setup, data updates, and exploratory analysis.
-- [`establishments.json`](establishments.json): The JSON file with the food hygiene ratings data (if included; otherwise, this file can be downloaded from the source).
-- [`README.md`](README.md): This file, providing an overview and instructions.
-Certainly! Here's the README content formatted for GitHub. You can copy and paste this directly into your `README.md` file on GitHub.
-
-```markdown
 # UK Food Hygiene Ratings Analysis
 
 ## Overview
